@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(0,0,255); opacity: 0.5;
+}
+
+span{
+background-color: #c12e2a;
+color: white;
+font-family: arial;
+font-size: 100%;
+	
+}
+
+input{
+    border-radius: 1000px 900px;
+}
+footer{
+  text-align: center;
+  background-color: #31b0d5;
+  color: white;
+  font-style: italic;
+  height: 100px;
+}
+
+#heder{
+    text-align: center;
+    background-color: #31b0d5;
+    color: white;
+    height:100%;
+    font-style: italic;
+}
+
+#seleccionaCategoria{
+      display: none;
+}
+
+#editarIngreso{
+    display: none;
+}
+
+#seguardo{
+    
+  display: none;  
+}
+#usuarioBase{
+    display: none;
+}
+
+#claveBase{
+    display: none;
+}
+
+
+#img{
+    width:100%;
+    align-content: center;
+    
+}
